@@ -1,2 +1,2 @@
 # La-Vieja-Cocina
-Sitio web de La Vieja Cocina - Viandas y comida casera a domicilio
+Comida casera como la que preparaba la abuela. Recetas con Ingredientes frescos y ese toque especial que las hace únicas
